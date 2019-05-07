@@ -55,6 +55,8 @@
   <ItemGroup>
      <Compile Include="Assets\Scripts\Cam.cs" />
      <Compile Include="Assets\Scripts\Player.cs" />
+     <Compile Include="Assets\Scripts\ReadNameTag.cs" />
+     <Compile Include="Assets\Scripts\usePC.cs" />
  <Reference Include="Unity.TextMeshPro.Editor">
  <HintPath>D:/Users/Ashes of a noob/Documents/Git/Pay2Win2/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll</HintPath>
  </Reference>
