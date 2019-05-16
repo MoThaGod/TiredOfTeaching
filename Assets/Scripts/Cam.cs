@@ -9,7 +9,7 @@ public class Cam : MonoBehaviour
 
     void Start()
     {
-        
+
     }
     void FixedUpdate()
     {
